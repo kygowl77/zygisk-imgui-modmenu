@@ -2,7 +2,7 @@
 #define ZYGISK_IMGUI_MODMENU_GAME_H
 
 // TODO: change this
-#define TargetLibName "libUE4.so"
-#define GamePackageName "com.StormingTech.RIPHorrorSurvivalShooter"
+#define TargetLibName "libil2cpp.so"
+#define GamePackageName "com.duoyi.m2m1"
 
 #endif //ZYGISK_IMGUI_MODMENU_GAME_H
