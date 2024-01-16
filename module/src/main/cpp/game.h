@@ -3,6 +3,6 @@
 
 // TODO: change this
 #define TargetLibName "libil2cpp.so"
-#define GamePackageName "com.duoyi.m2m1"
+#define GamePackageName "com.tencent.af"
 
 #endif //ZYGISK_IMGUI_MODMENU_GAME_H
